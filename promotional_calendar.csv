@@ -1,0 +1,21 @@
+promo_id,promo_name,start_date,end_date,duration_days,category,discount_pct,is_clearance_event,expected_uplift_pct
+PROMO_0,Spring Sale,20200315,20200329,14,Category 01,12.4,0,49.4
+PROMO_1,Spring Sale,20200315,20200329,14,Category 02,12.4,0,18.5
+PROMO_2,Summer Clearance,20200601,20200622,21,Category 07,12.1,1,15.9
+PROMO_3,Summer Clearance,20200601,20200622,21,Category 06,12.1,1,31.1
+PROMO_4,Back to School,20200815,20200829,14,Category 03,22.6,0,19.7
+PROMO_5,Back to School,20200815,20200829,14,Category 01,22.6,0,48.9
+PROMO_6,Black Friday,20201120,20201127,7,Category 04,11.6,0,34.0
+PROMO_7,Black Friday,20201120,20201127,7,Category 02,11.6,0,45.5
+PROMO_8,Cyber Monday,20201127,20201202,5,Category 03,24.2,0,41.3
+PROMO_9,Cyber Monday,20201127,20201202,5,Category 07,24.2,0,45.5
+PROMO_10,Holiday Sale,20201201,20210101,31,Category 01,23.9,0,22.4
+PROMO_11,Holiday Sale,20201201,20210101,31,Category 06,23.9,0,41.3
+PROMO_12,New Year,20210101,20210115,14,Category 10,19.9,0,40.1
+PROMO_13,New Year,20210101,20210115,14,Category 07,19.9,0,30.3
+PROMO_14,Easter Sale,20210410,20210417,7,Category 05,21.4,0,26.0
+PROMO_15,Easter Sale,20210410,20210417,7,Category 03,21.4,0,37.0
+PROMO_16,Mother's Day,20210507,20210510,3,Category 05,18.1,0,17.4
+PROMO_17,Mother's Day,20210507,20210510,3,Category 04,18.1,0,35.0
+PROMO_18,Father's Day,20210619,20210622,3,Category 06,21.6,0,48.4
+PROMO_19,Father's Day,20210619,20210622,3,Category 07,21.6,0,38.6

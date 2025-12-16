@@ -1,0 +1,23 @@
+sku,category,sku_name,current_price,unit_cost,margin_pct,brand,subcategory
+57,Category 04,Category 04_SKU57,67.16,34.92,48.0,Brand_3,SubCat_1
+64,Category 01,Category 01_SKU64,58.59,32.22,45.0,Brand_5,SubCat_2
+76,Category 05,Category 05_SKU76,40.06,22.03,45.0,Brand_2,SubCat_2
+148,Category 03,Category 03_SKU148,32.44,19.46,40.0,Brand_4,SubCat_2
+110,Category 02,Category 02_SKU110,67.39,33.7,50.0,Brand_1,SubCat_3
+83,Category 05,Category 05_SKU83,57.47,31.61,45.0,Brand_4,SubCat_3
+52,Category 06,Category 06_SKU52,37.7,20.74,45.0,Brand_3,SubCat_2
+6,Category 06,Category 06_SKU6,59.88,32.93,45.0,Brand_2,SubCat_1
+155,Category 01,Category 01_SKU155,41.49,22.82,45.0,Brand_1,SubCat_3
+149,Category 03,Category 03_SKU149,30.48,18.29,40.0,Brand_5,SubCat_3
+107,Category 10,Category 10_SKU107,45.85,25.22,45.0,Brand_3,SubCat_3
+154,Category 01,Category 01_SKU154,50.12,27.57,45.0,Brand_5,SubCat_2
+39,Category 06,Category 06_SKU39,41.46,22.8,45.0,Brand_5,SubCat_1
+8,Category 05,Category 05_SKU8,56.61,31.14,45.0,Brand_4,SubCat_3
+7,Category 06,Category 06_SKU7,61.43,33.79,45.0,Brand_3,SubCat_2
+1,Category 07,Category 07_SKU1,53.14,29.23,45.0,Brand_2,SubCat_2
+2,Category 01,Category 01_SKU2,29.08,15.99,45.0,Brand_3,SubCat_3
+3,Category 01,Category 01_SKU3,40.19,22.1,45.0,Brand_4,SubCat_1
+46,Category 04,Category 04_SKU46,47.84,24.88,48.0,Brand_2,SubCat_2
+67,Category 05,Category 05_SKU67,37.97,20.88,45.0,Brand_3,SubCat_2
+111,Category 04,Category 04_SKU111,55.68,28.95,48.0,Brand_2,SubCat_1
+153,Category 02,Category 02_SKU153,81.33,40.66,50.0,Brand_4,SubCat_1
